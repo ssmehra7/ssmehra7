@@ -1,5 +1,5 @@
 # Hey! I am Simarjeet
-## I love build things for Web 🌐
+## I love building things for Web 🌐
 
 - 🔭 I’m currently working on [Medium-Blog(clone)](https://medium-blog-git-main-ssmehra7s-projects.vercel.app/)
 - 💻 Currently learning NextJS and Typescript
