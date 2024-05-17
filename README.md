@@ -7,7 +7,7 @@
 - 🧑‍💼 Exploring Data Structure and Algos
 -  👨‍💻 All of my projects are available at [https://github.com/ssmehra7](https://github.com/ssmehra7)
 -  💬 Ask me about **ReactJs,NodeJs,Javascript or anything...**
-- 🎓 CSE Undergrad 2025
+
 
 
 
