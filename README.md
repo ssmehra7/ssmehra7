@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently Typescript
+🌱 I've been coding in TypeScript and React primarily for over a year.
+    Currently learning Typescript and Nextjs
+💬 Ask me about Node.js, React, Javascript... or anything 
+   All of my projects are available at https://github.com/ssmehra7
 
 
 ## 🌐 Socials:
