@@ -1,5 +1,5 @@
 
-#👋 Hey! I am Simarjeet Singh
+##👋 Hey! I am Simarjeet Singh
 ## I am a Full-Stack Developer 🌐
 
 - 🔭 I’m currently working on [Medium-Blog(clone)](https://medium-blog-git-main-ssmehra7s-projects.vercel.app/)
