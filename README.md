@@ -1,5 +1,5 @@
 
-##👋 Hey! I am Simarjeet Singh
+# 👋Hey! I am Simarjeet Singh
 ## I am a Full-Stack Developer 🌐
 
 - 🔭 I’m currently working on [Medium-Blog(clone)](https://medium-blog-git-main-ssmehra7s-projects.vercel.app/)
@@ -7,7 +7,7 @@
 - 🧑‍💼 Exploring Data Structure and Algos
 -  👨‍💻 All of my projects are available at [https://github.com/ssmehra7](https://github.com/ssmehra7)
 -  💬 Ask me about **ReactJs,NodeJs,Javascript or anything...**
-
+- 🎓 CSE Undergrad 2025
 
 
 
